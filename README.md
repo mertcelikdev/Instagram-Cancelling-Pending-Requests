@@ -30,20 +30,7 @@ This tool automatically **cancels all your pending follow requests** one by one.
 
 ---
 
-## ⚡ Installation
 
-
-# Clone repo
-git clone https://github.com/yourusername/ig-follow-requests-cleaner.git
-cd ig-follow-requests-cleaner
-
-# Create virtual environment (optional but recommended)
-python -m venv .venv
-source .venv/bin/activate    # Mac/Linux
-.venv\Scripts\activate       # Windows
-
-# Install dependencies
-pip install -r requirements.txt
 
 
 🔑 Setup
